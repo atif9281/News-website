@@ -1,0 +1,9 @@
+/* Navbar.css */
+.navbar-brand img {
+    max-width: 100px; /* Adjust the max-width to your desired size */
+    height: auto;
+  }
+  .active-link {
+    background-color: green; 
+    color: #fff; 
+  }

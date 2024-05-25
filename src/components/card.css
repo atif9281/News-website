@@ -1,0 +1,16 @@
+.card {
+    height: 400px; 
+    overflow: hidden;
+    margin: auto;
+  }
+ 
+  .card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
